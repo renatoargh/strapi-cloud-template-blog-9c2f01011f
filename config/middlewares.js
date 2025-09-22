@@ -8,7 +8,8 @@ module.exports = [
       origin: [
         'http://localhost:8080',
         'https://www.consultorfamiliar.com.br',
-        'https://consultorfamiliar.com.br'
+        'https://consultorfamiliar.com.br',
+        'https://family-banker-home.lovable.app'
       ],
       methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'HEAD', 'OPTIONS'],
       headers: ['Content-Type', 'Authorization', 'Origin', 'Accept'],
